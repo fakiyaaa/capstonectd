@@ -57,3 +57,4 @@ Reflection:
 I am still figuring out how to implement each additional information for selected internships, so that they will match. As I don't have the API, it is a bit hard to implement data.
 I need to update additional information and links for button 
 Video: link: https://youtube.com/shorts/b6FfAI-cl2w?feature=share
+new video link: https://youtu.be/WeYls5tshP4 
